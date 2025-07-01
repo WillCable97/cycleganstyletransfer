@@ -1,6 +1,9 @@
 # Data
 /data/
 
+# Checkpoints
+/notebooks/checkpoints/
+
 # Mac OS-specific storage files
 .DS_Store
 
